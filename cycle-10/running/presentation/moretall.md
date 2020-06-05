@@ -13,7 +13,7 @@ Ex) 1 7 4 6 5 수열은 5 6 4 1 7 수열로 변할 수 있습니다.
 
 <details>
 <summary>해설</summary>
-<img src="./image.png"></img><br/>)
+<img src="https://github.com/SeonghoJin/plan-presentation/blob/moretall/cycle-10/running/presentation/image.png"></img><br/>)
 
 </details>
 <details>
