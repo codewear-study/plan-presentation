@@ -10,11 +10,10 @@
 
 Ex) 1 7 4 6 5 수열은 5 6 4 1 7 수열로 변할 수 있습니다.
 |5-6| <= |6-4| <= |4-1| <= |1-7|
-아시는 분은 구두로 간략하게 말씀해주시면 되겠습니다. 
 
 <details>
 <summary>해설</summary>
-![image](./image.png)
+<img src="./image.png"></img><br/>)
 
 </details>
 <details>
@@ -55,11 +54,3 @@ int main(){
 </pre>
 </div>
 </details>
-
-
-
-
-
-
-Centroid Decomposition이란?
-==========================
