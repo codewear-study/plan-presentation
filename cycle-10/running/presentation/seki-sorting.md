@@ -54,6 +54,28 @@
 |공간 복잡도|`O(1)`|
 |특징|간격을 계산하는 방법에 따라서 복잡도가 달라짐, in-place|
 
+## 선택 정렬
+
+### Selection sort
+
+![selection sort](https://raw.githubusercontent.com/codewear-study/plan-presentation/seki/cycle-10/running/presentation/seki-resources/sort-selection.gif)
+|||
+|:-:|:-|
+|설명|필요한 값을 찾아 옮기는 방법. 가장 간단한 방법으로 가장 큰 값 또는 가장 작은 값을 선택한다.|
+|시간 복잡도|`O(n²)`|
+|공간 복잡도|`O(1)`|
+|특징|in-place|
+
+### Heap sort
+
+![heap sort](https://raw.githubusercontent.com/codewear-study/plan-presentation/seki/cycle-10/running/presentation/seki-resources/sort-heap.gif)
+|||
+|:-:|:-|
+|설명|selection sort에서 heap을 사용하여 값을 선택하는 시간을 줄임. heap이 배열에 구현이 가능하다는 것을 이용함.|
+|시간 복잡도|`O(nlogn)`|
+|공간 복잡도|`O(1)`|
+|특징|in-place, heapify 오버헤드가 있음|
+
 ## 비교하지 않는 정렬 (분포 정렬)
 
 ### Counting sort
