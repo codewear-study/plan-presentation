@@ -67,7 +67,7 @@ int main(){
 
 ## BOJ 3163 떨어지는 개미(골드 1)
 [본 문제](https://www.acmicpc.net/problem/3163)  
-<img src="https://github.com/SeonghoJin/plan-presentation/blob/moretall/cycle-10/reflection/presentation/1..png"></img><br/>  
+<img src="https://github.com/SeonghoJin/plan-presentation/blob/moretall/cycle-10/reflection/presentation/1..PNG"></img><br/>  
 개미가 행진을 시작하기 전의 상태 (ID와 막대 상의 위치)가 주어진다. 두 개미가 동시에 막대의 양 끝에서 떨어지는 경우에는, ID가 작은 개미가 조금   더 먼저 떨어진다고 한다. 위 그림은 이와 같은 경우를 나타낸 그림이다. 두 개미 {-1, +2}는 끝에 동시에 도착하게 된다. -1 < +2 이기   때문에, ID가 -1인 개미가 +2인 개미보다 조금 더 먼저 떨어지게 된다. 따라서, 위 그림의 네 개미가 떨어지는 순서는 {-1, 2, 4, 3}이 된다.  
 <details>
 <summary>해설</summary>
